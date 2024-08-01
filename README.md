@@ -5,4 +5,4 @@ My OpenGL [Graphics Library](https://github.com/collebrusco/flgl) is my most ext
 
     
 #### Class Projects: 
-These were [Handheld dungeon crawler](https://github.com/collebrusco/ECE-319K-game-competition) for 319K and [RC dragsters](https://github.com/collebrusco/ECE-445L-final-project) for 445L.    
+A [Handheld dungeon crawler](https://github.com/collebrusco/ECE-319K-game-competition) for 319K, [RC dragsters](https://github.com/collebrusco/ECE-445L-final-project) for 445L, and [CUDA FFTs](https://github.com/collebrusco/361C-term-project) applied to my fluid solver renderer for 361C.    
