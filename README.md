@@ -2,6 +2,8 @@
 
 ## [FLGL](https://github.com/collebrusco/flgl) Graphics Library
 ### [FFT Fluid Solver](https://github.com/collebrusco/fluid-solver-toy)
+### [Entity Component System](https://github.com/collebrusco/entity-mini)
+### [Minecraft Clone](https://github.com/collebrusco/minecraft)  (indie game dev right of passage)
 
 ### Class Projects:
 [Handheld dungeon crawler](https://github.com/collebrusco/ECE-319K-game-competition) for ECE319K Intro Embedded        
